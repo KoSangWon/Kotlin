@@ -57,9 +57,43 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="575" height="201" key="GridCell.Tab.0.bottom" timestamp="1585134983986">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="575" height="201" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1585134983986" />
+    <state width="575" height="201" key="GridCell.Tab.0.center" timestamp="1585134983986">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="575" height="201" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1585134983986" />
+    <state width="575" height="201" key="GridCell.Tab.0.left" timestamp="1585134983985">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="575" height="201" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1585134983985" />
+    <state width="575" height="201" key="GridCell.Tab.0.right" timestamp="1585134983986">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="575" height="201" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1585134983986" />
+    <state x="443" y="75" key="SettingsEditor" timestamp="1585134734000">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="443" y="75" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1585134734000" />
     <state x="397" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1585133744184">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="397" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1585133744184" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/Fibonacci.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
