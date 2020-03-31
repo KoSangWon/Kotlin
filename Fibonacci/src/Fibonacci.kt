@@ -1,7 +1,7 @@
 import java.math.BigInteger
 
 fun main(){
-    var n = 10000
+    var n = 100
     val first = BigInteger("0")
     val second = BigInteger("1")
 
